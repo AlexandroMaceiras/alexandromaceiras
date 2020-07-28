@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  Nas minhas horas vagas gosto muito de ouvir música pesada, rock 🎵, ver muitos filmes 🎞️ e tocar minha guitarra 🎸.
 
- Meu github/alexandromaceiras é um repositório que uso pra guardar informações que acho boas para o futuro usar em alguma aplicação e deixo aberto pra quem quiser usar se achar que serve pra ele.
+ Meu github/AlexandroMaceiras é um repositório que uso pra guardar informações que acho boas para o futuro usar em alguma aplicação e deixo aberto pra quem quiser usar se achar que serve pra ele.
 
 
 [![Blog Badge](https://img.shields.io/badge/Blog-www.maceiras.com.br-black)](http://www.maceiras.com.br/blog)
