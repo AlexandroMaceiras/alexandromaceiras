@@ -23,7 +23,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 Would you like to find me?
 -->
-[![Blog Badge](https://img.shields.io/badge/Blog-www.maceiras.com.br-black)](http://www.maceiras.com/blog)
+[![Blog Badge](https://img.shields.io/badge/Blog-www.maceiras.com.br-black)](http://www.maceiras.com.br/blog)
 
 <!--
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/FelipeFialhoDev)](https://youtube.com/c/FelipeFialhoDev)
