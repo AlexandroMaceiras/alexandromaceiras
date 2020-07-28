@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Oi pessoal! 😁
 
 <!--
 **AlexandroMaceiras/alexandromaceiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! 😁
-<!--
-My name is Felipe Fialho from Brazil (🇧🇷). I've been working as Front-End Developer since 2009 and currently I'm Tech Lead at [Juntos Somos Mais](https://juntossomosmais.com.br). I'm passionate about open source projects, so I've created some projects as [Front-end BR](https://github.com/frontendbr) and I've always loved to produce a lot of content during my career.
 
-In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+ Meu nome é Alexandro Antonio Blini Maceiras eu sou Analista/Programador experimentado nas mais variadas linguagens de programação e de bancos de dados do mercado desde 1990. Especializado em desenvolvimento de sites e sistemas WEB desde 1996 para a Internet/Intranet e Extranet e com mais de 30 anos em programação de sistemas nativos de Windows e outras plataformas. Uso de modelagem em 3 ou mais camadas com frameworks distintas. Experiência em alta e baixa plataforma (Mainframe e microcomputadores). Grande experiência em corporações financeiras (Bancos, Incorporadora, Previdência Privada...) atuando na criação e manutenção de sistemas bancários e empreendedores usando regras de negócios complexas e também em cálculos financeiros, tesouraria para aplicar a estes sistemas, cálculo dos ganhos financeiros, cálculo de ativo e passivo de ERPs, cálculo de empréstimos agropecuários, cálculo de lucro de vendedores e terceiros. Conhecimento de integração de sistemas WEB com banco de dados SAP. 
 
-Would you like to find me?
--->
+ Nas minhas horas vagas gosto muito de ouvir música pesada, rock 🎵, ver muitos filmes 🎞️ e tocar minha guitarra 🎸.
+
+ Meu github/alexandromaceiras é um repositório que uso pra guardar informações que acho boas para o futuro usar em alguma aplicação e deixo aberto pra quem quiser usar se achar que serve pra ele.
+
+
 [![Blog Badge](https://img.shields.io/badge/Blog-www.maceiras.com.br-black)](http://www.maceiras.com.br/blog)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandro-maceiras/)](https://www.linkedin.com/in/alexandro-maceiras/)
 
